@@ -1,0 +1,108 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!126 &1
+NavMeshProjectSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  areas:
+  - name: Walkable
+    cost: 1
+  - name: Not Walkable
+    cost: 1
+  - name: Jump
+    cost: 2
+  - name: yokusustu
+    cost: 3
+  - name: koridor
+    cost: 1
+  - name: bataklik
+    cost: 999
+  - name: ates
+    cost: 1
+  - name: bolge1
+    cost: 3
+  - name: alan1
+    cost: 1
+  - name: alan2
+    cost: 1
+  - name: alan3
+    cost: 1
+  - name: alan4
+    cost: 1
+  - name: alan5
+    cost: 1
+  - name: alan6
+    cost: 1
+  - name: alan7
+    cost: 1
+  - name: 
+    cost: 1
+  - name: 
+    cost: 1
+  - name: 
+    cost: 1
+  - name: 
+    cost: 1
+  - name: 
+    cost: 1
+  - name: 
+    cost: 1
+  - name: 
+    cost: 1
+  - name: 
+    cost: 1
+  - name: 
+    cost: 1
+  - name: 
+    cost: 1
+  - name: 
+    cost: 1
+  - name: 
+    cost: 1
+  - name: 
+    cost: 1
+  - name: 
+    cost: 1
+  - name: 
+    cost: 1
+  - name: 
+    cost: 1
+  - name: 
+    cost: 1
+  m_LastAgentTypeID: -334000983
+  m_Settings:
+  - serializedVersion: 2
+    agentTypeID: 0
+    agentRadius: 0.12
+    agentHeight: 0.5
+    agentSlope: 25.2
+    agentClimb: 0.11
+    ledgeDropHeight: 0
+    maxJumpAcrossDistance: 0
+    minRegionArea: 2
+    manualCellSize: 0
+    cellSize: 0.16666667
+    manualTileSize: 0
+    tileSize: 256
+    accuratePlacement: 0
+    debug:
+      m_Flags: 0
+  - serializedVersion: 2
+    agentTypeID: -334000983
+    agentRadius: 0.2
+    agentHeight: 0.72
+    agentSlope: 60
+    agentClimb: 0.41
+    ledgeDropHeight: 0
+    maxJumpAcrossDistance: 0
+    minRegionArea: 2
+    manualCellSize: 0
+    cellSize: 0.16666667
+    manualTileSize: 0
+    tileSize: 256
+    accuratePlacement: 0
+    debug:
+      m_Flags: 0
+  m_SettingNames:
+  - bebe
+  - "yeti\u015Fkin"
